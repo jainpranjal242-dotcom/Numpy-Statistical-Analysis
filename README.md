@@ -3,7 +3,7 @@
 **Internship Track:** AI & ML  
 **Organization:** Veda Technology  
 **Project:** NumPy Statistical Analysis  
-**Author:** Ayush Rajput
+**Author:** Pranjal jain
 
 ## Project Overview
 This project analyzes a small numerical dataset using Python and NumPy. It calculates common descriptive statistics and highlights unusually high or low observations using the interquartile range (IQR) method.
